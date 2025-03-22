@@ -1,4 +1,3 @@
-
 # **Cesium Team Project Repository**  
 
 ## **Overview**  
